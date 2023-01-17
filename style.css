@@ -68,7 +68,7 @@ body,html{
     font-weight: 400;
     text-align: right;
     color: var(--white);
-    margin-bottom: 4rem;
+    margin-bottom: 3rem;
  }
  output#result{
     font-size: 1.65rem;

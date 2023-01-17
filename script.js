@@ -36,10 +36,10 @@ function compute(){
 		case '-':
 			result = pv - cr;
 			break;
-		case 'X':
+		case 'x':
 			result = pv * cr;
 			break;
-		case '/':
+		case '÷':
 			result = pv / cr;
 			break;
 		default:
