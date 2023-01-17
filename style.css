@@ -27,7 +27,7 @@ body,html{
     
 }
 .container-child{
-    max-width: 400px;
+    max-width: 370px;
     width: 100%;
     
 }
@@ -135,14 +135,3 @@ button:hover {
 }
 
 
-@media(max-width: 450){
-    .calculator-display output {
-        height: 60px;
-    }
-    .button{
-        height: 80px;
-    }
-        
-
-}
-  
