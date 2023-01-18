@@ -71,10 +71,13 @@ body,html{
     margin-bottom: 3rem;
  }
  output#result{
-    font-size: 1.65rem;
-    font-weight: 600;
+  
+    justify-content: end;
+    font-size: 3.3rem;
+    font-weight: 500;
     text-align: right;
     color: var(--white);
+    
  }
 
 .calculator .all-buttons{
